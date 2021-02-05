@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		047E481D25CD294B0033ADA9 /* Upeksha_Dharmadasa_COBSCComp192p-053.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Upeksha_Dharmadasa_COBSCComp192p-053.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		047E481D25CD294B0033ADA9 /* WinWinCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WinWinCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		047E482025CD294B0033ADA9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		047E482225CD294B0033ADA9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		047E482425CD294B0033ADA9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		047E481E25CD294B0033ADA9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				047E481D25CD294B0033ADA9 /* Upeksha_Dharmadasa_COBSCComp192p-053.app */,
+				047E481D25CD294B0033ADA9 /* WinWinCalculator.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = "Upeksha_Dharmadasa_COBSCComp192p-053";
 			productName = "Upeksha_Dharmadasa_COBSCComp192p-053";
-			productReference = 047E481D25CD294B0033ADA9 /* Upeksha_Dharmadasa_COBSCComp192p-053.app */;
+			productReference = 047E481D25CD294B0033ADA9 /* WinWinCalculator.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -292,7 +292,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "UpekshaDharmadasa.Upeksha-Dharmadasa-COBSCComp192p-053";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = WinWinCalculator;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -310,7 +310,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "UpekshaDharmadasa.Upeksha-Dharmadasa-COBSCComp192p-053";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = WinWinCalculator;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
