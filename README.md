@@ -13,7 +13,7 @@ This WinWinCalculator is made for compatible with all the Mac devices and for an
 
 <h2>Launch screen</h2>
 
-![Simulator Screen Shot - iPhone SE (2nd generation) - 2021-02-05 at 17 49 16](https://user-images.githubusercontent.com/44730905/107036873-4e5d3a80-67e0-11eb-802e-2ca7bb1146f2.png)=100*100
+![Simulator Screen Shot - iPhone SE (2nd generation) - 2021-02-05 at 17 49 16](https://user-images.githubusercontent.com/44730905/107036873-4e5d3a80-67e0-11eb-802e-2ca7bb1146f2.png=100*100)
 
 <h2>Potrait mode</h2>
 
