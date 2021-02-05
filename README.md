@@ -13,7 +13,7 @@ This WinWinCalculator is made for compatible with all the Mac devices and for an
 
 <h2>Launch screen</h2>
 
-![](Images/LaunchScreen.png width="100")
+![LaunchScreen](https://user-images.githubusercontent.com/44730905/107042378-afd4d780-67e7-11eb-8d23-b3fe3ed99627.png)
 
 <h2>Potrait mode</h2>
 
