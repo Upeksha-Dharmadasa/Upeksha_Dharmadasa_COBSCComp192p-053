@@ -21,4 +21,4 @@ This WinWinCalculator is made for compatible with all the Mac devices and for an
 
 <h2>Landscape mode</h2>
 
-<img src="https://user-images.githubusercontent.com/44730905/107037854-b2ccc980-67e1-11eb-9e77-cf160f547187.png" width="250">
+<img src="https://user-images.githubusercontent.com/44730905/107037854-b2ccc980-67e1-11eb-9e77-cf160f547187.png" width="400">
